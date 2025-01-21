@@ -1,2 +1,2 @@
-# david-josias-software-developer
+# David JOSIAS
 Basic static web page for professional presentation 
